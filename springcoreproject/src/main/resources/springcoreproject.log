@@ -1,0 +1,61 @@
+2023-11-02 20:24:50,625 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4da4253
+2023-11-02 20:24:50,714 DEBUG o.s.b.f.x.XmlBeanDefinitionReader [main] Loaded 2 bean definitions from class path resource [autowiring.xml]
+2023-11-02 20:24:50,726 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loan'
+2023-11-02 20:24:50,748 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2023-11-02 20:24:50,755 INFO c.e.i.x.a.Customer [main] Customer Details, customerId:1, customerName:Regu 
+2023-11-02 20:24:50,755 INFO c.e.i.x.a.Loan [main] Loan Details:loanId:1 and loanType:Saving
+2023-11-02 20:25:27,835 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4da4253
+2023-11-02 20:25:27,906 DEBUG o.s.b.f.x.XmlBeanDefinitionReader [main] Loaded 2 bean definitions from class path resource [autowiring.xml]
+2023-11-02 20:25:27,917 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loan1'
+2023-11-02 20:25:27,935 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2023-11-02 20:25:27,941 INFO c.e.i.x.a.Customer [main] Customer Details, customerId:1, customerName:Regu 
+2023-11-02 20:27:15,989 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4da4253
+2023-11-02 20:27:16,060 DEBUG o.s.b.f.x.XmlBeanDefinitionReader [main] Loaded 2 bean definitions from class path resource [autowiring.xml]
+2023-11-02 20:27:16,071 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loan1'
+2023-11-02 20:27:16,090 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2023-11-02 20:27:16,100 INFO c.e.i.x.a.Customer [main] Customer Details, customerId:1, customerName:Regu 
+2023-11-02 20:27:16,100 INFO c.e.i.x.a.Loan [main] Loan Details:loanId:1 and loanType:Saving
+2023-11-02 20:28:47,782 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4da4253
+2023-11-02 20:28:47,858 DEBUG o.s.b.f.x.XmlBeanDefinitionReader [main] Loaded 2 bean definitions from class path resource [autowiring.xml]
+2023-11-02 20:28:47,871 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loan1'
+2023-11-02 20:28:47,890 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2023-11-02 20:28:47,896 INFO c.e.i.x.a.Customer [main] Customer Details, customerId:1, customerName:Regu 
+2023-11-02 20:29:16,940 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4da4253
+2023-11-02 20:29:17,015 DEBUG o.s.b.f.x.XmlBeanDefinitionReader [main] Loaded 2 bean definitions from class path resource [autowiring.xml]
+2023-11-02 20:29:17,026 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loan1'
+2023-11-02 20:29:17,046 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2023-11-02 20:29:17,051 DEBUG o.s.b.f.s.ConstructorResolver [main] Autowiring by type from bean name 'customer' via constructor to bean named 'loan1'
+2023-11-02 20:29:17,058 INFO c.e.i.x.a.Customer [main] Customer Details, customerId:1, customerName:Regu 
+2023-11-02 20:29:17,058 INFO c.e.i.x.a.Loan [main] Loan Details:loanId:1 and loanType:Saving
+2023-11-02 20:32:19,214 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4da4253
+2023-11-02 20:32:19,283 DEBUG o.s.b.f.x.XmlBeanDefinitionReader [main] Loaded 2 bean definitions from class path resource [autowiring.xml]
+2023-11-02 20:32:19,293 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loan1'
+2023-11-02 20:32:19,313 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2023-11-02 20:32:19,319 DEBUG o.s.b.f.s.ConstructorResolver [main] Autowiring by type from bean name 'customer' via constructor to bean named 'loan1'
+2023-11-02 20:32:19,320 INFO c.e.i.x.a.Customer [main] Parameterized constructor 1 param
+2023-11-02 20:32:19,325 INFO c.e.i.x.a.Customer [main] Customer Details, customerId:1, customerName:Regu 
+2023-11-02 20:32:19,326 INFO c.e.i.x.a.Loan [main] Loan Details:loanId:1 and loanType:Saving
+2023-11-02 20:33:00,544 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4da4253
+2023-11-02 20:33:00,622 DEBUG o.s.b.f.x.XmlBeanDefinitionReader [main] Loaded 2 bean definitions from class path resource [autowiring.xml]
+2023-11-02 20:33:00,634 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loan1'
+2023-11-02 20:33:00,653 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2023-11-02 20:33:00,658 DEBUG o.s.b.f.s.ConstructorResolver [main] Autowiring by type from bean name 'customer' via constructor to bean named 'loan1'
+2023-11-02 20:33:00,659 INFO c.e.i.x.a.Customer [main] Parameterized constructor 3 params
+2023-11-02 20:33:00,666 INFO c.e.i.x.a.Customer [main] Customer Details, customerId:1, customerName:Regu 
+2023-11-02 20:33:00,666 INFO c.e.i.x.a.Loan [main] Loan Details:loanId:1 and loanType:Saving
+2023-11-02 20:33:52,182 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4da4253
+2023-11-02 20:33:52,262 DEBUG o.s.b.f.x.XmlBeanDefinitionReader [main] Loaded 2 bean definitions from class path resource [autowiring.xml]
+2023-11-02 20:33:52,274 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loan1'
+2023-11-02 20:33:52,293 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2023-11-02 20:33:52,295 WARN o.s.c.s.AbstractApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'customer' defined in class path resource [autowiring.xml]: Failed to instantiate [com.emexo.ioc.xml.autowiring.Customer]: No default constructor found
+2023-11-02 20:34:17,404 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4da4253
+2023-11-02 20:34:17,475 DEBUG o.s.b.f.x.XmlBeanDefinitionReader [main] Loaded 2 bean definitions from class path resource [autowiring.xml]
+2023-11-02 20:34:17,486 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loan'
+2023-11-02 20:34:17,505 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2023-11-02 20:34:17,507 WARN o.s.c.s.AbstractApplicationContext [main] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'customer' defined in class path resource [autowiring.xml]: Failed to instantiate [com.emexo.ioc.xml.autowiring.Customer]: No default constructor found
+2023-11-02 20:34:55,537 DEBUG o.s.c.s.AbstractApplicationContext [main] Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@4da4253
+2023-11-02 20:34:55,634 DEBUG o.s.b.f.x.XmlBeanDefinitionReader [main] Loaded 2 bean definitions from class path resource [autowiring.xml]
+2023-11-02 20:34:55,645 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'loan'
+2023-11-02 20:34:55,667 DEBUG o.s.b.f.s.DefaultSingletonBeanRegistry [main] Creating shared instance of singleton bean 'customer'
+2023-11-02 20:34:55,673 INFO c.e.i.x.a.Customer [main] Customer Details, customerId:1, customerName:Regu 
+2023-11-02 20:34:55,673 INFO c.e.i.x.a.Loan [main] Loan Details:loanId:1 and loanType:Saving

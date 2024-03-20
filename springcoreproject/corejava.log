@@ -1,0 +1,47 @@
+2023-11-03 06:11:39,312 INFO c.e.c.l.ArrayListExample [main] com.emexo.collection.list.Product@7b02881e
+2023-11-03 06:11:39,318 INFO c.e.c.l.ArrayListExample [main] com.emexo.collection.list.Product@36d585c
+2023-11-03 06:11:39,319 INFO c.e.c.l.ArrayListExample [main] com.emexo.collection.list.Product@87a85e1
+2023-11-03 06:12:24,987 INFO c.e.c.l.ArrayListExample [main] Product{productId=1, productName='iphone'}
+2023-11-03 06:12:24,990 INFO c.e.c.l.ArrayListExample [main] Product{productId=2, productName='one plus'}
+2023-11-03 06:12:24,990 INFO c.e.c.l.ArrayListExample [main] Product{productId=3, productName='Redmi'}
+2023-11-03 06:15:30,728 INFO c.e.c.l.ArrayListExample [main] Product{productId=1, productName='iphone'}
+2023-11-03 06:15:30,732 INFO c.e.c.l.ArrayListExample [main] Product{productId=2, productName='one plus'}
+2023-11-03 06:15:30,732 INFO c.e.c.l.ArrayListExample [main] Product{productId=3, productName='Redmi'}
+2023-11-03 06:17:16,041 INFO c.e.c.l.ArrayListExample [main] Product{productId=1, productName='iphone'}
+2023-11-03 06:17:32,654 INFO c.e.c.l.ArrayListExample [main] Product{productId=1, productName='iphone'}
+2023-11-03 06:18:17,915 INFO c.e.c.l.ArrayListExample [main] 1
+2023-11-03 06:18:37,117 INFO c.e.c.l.ArrayListExample [main] iphone
+2023-11-03 06:18:56,816 INFO c.e.c.l.ArrayListExample [main] iphone
+2023-11-03 06:18:56,819 INFO c.e.c.l.ArrayListExample [main] one plus
+2023-11-03 06:18:56,820 INFO c.e.c.l.ArrayListExample [main] Redmi
+2023-11-03 06:23:04,857 INFO c.e.c.l.ArrayListExample [main] Product{productId=1, productName='iphone'}
+2023-11-03 06:23:04,860 INFO c.e.c.l.ArrayListExample [main] Product{productId=2, productName='one plus'}
+2023-11-03 06:23:04,860 INFO c.e.c.l.ArrayListExample [main] Product{productId=3, productName='Redmi'}
+2023-11-03 06:26:44,425 INFO c.e.c.l.ArrayListExample [main] Product{productId=1, productName='iphone'}
+2023-11-03 06:26:44,428 INFO c.e.c.l.ArrayListExample [main] Product{productId=2, productName='one plus'}
+2023-11-03 06:26:44,428 INFO c.e.c.l.ArrayListExample [main] Product{productId=3, productName='Redmi'}
+2023-11-03 06:28:59,281 INFO c.e.c.l.ArrayListExample [main] Product{productId=1, productName='iphone'}
+2023-11-03 06:28:59,285 INFO c.e.c.l.ArrayListExample [main] Product{productId=2, productName='one plus'}
+2023-11-03 06:28:59,285 INFO c.e.c.l.ArrayListExample [main] Product{productId=3, productName='Redmi'}
+2023-11-03 06:28:59,285 INFO c.e.c.l.ArrayListExample [main] Product{productId=3, productName='Redmi'}
+2023-11-03 06:28:59,285 INFO c.e.c.l.ArrayListExample [main] Product{productId=2, productName='one plus'}
+2023-11-03 06:28:59,285 INFO c.e.c.l.ArrayListExample [main] Product{productId=1, productName='iphone'}
+2023-11-03 06:33:32,145 INFO c.e.c.l.ArrayListExample [main] Product{productId=1, productName='iphone'}
+2023-11-03 06:33:32,148 INFO c.e.c.l.ArrayListExample [main] Product{productId=2, productName='one plus'}
+2023-11-03 06:33:32,149 INFO c.e.c.l.ArrayListExample [main] Product{productId=3, productName='Redmi'}
+2023-11-03 06:33:53,692 INFO c.e.c.l.ArrayListExample [main] Product{productId=1, productName='iphone'}
+2023-11-03 06:33:53,695 INFO c.e.c.l.ArrayListExample [main] Product{productId=2, productName='one plus'}
+2023-11-03 06:33:53,696 INFO c.e.c.l.ArrayListExample [main] Product{productId=3, productName='Redmi'}
+2023-11-03 06:57:26,306 INFO c.e.c.l.ArrayListExample [main] [com.emexo.collection.list.Order@15ca7889, com.emexo.collection.list.Order@7a675056, com.emexo.collection.list.Order@d21a74c]
+2023-11-03 06:57:52,100 INFO c.e.c.l.ArrayListExample [main] [Order{orderId=1, quantity='2', address='Bangalore'}, Order{orderId=3, quantity='20', address='Chennai'}, Order{orderId=4, quantity='6', address='Mumbai'}]
+2023-11-03 06:58:50,637 INFO c.e.c.l.ArrayListExample [main] java.util.stream.ReferencePipeline$2@7a675056
+2023-11-03 06:59:19,685 INFO c.e.c.l.ArrayListExample [main] java.util.stream.ReferencePipeline$2@7a675056
+2023-11-03 07:00:05,001 INFO i.d.r.GeneratedEvaluationClass [main] java.util.stream.ReferencePipeline$2@68267da0
+2023-11-03 07:00:47,555 INFO c.e.c.l.ArrayListExample [main] Product{productId=1, productName='iphone'}
+2023-11-03 07:01:39,886 INFO c.e.c.l.ArrayListExample [main] Product{productId=1, productName='iphone'}
+2023-11-03 07:01:54,683 INFO c.e.c.l.ArrayListExample [main] Product{productId=1, productName='iphone'}
+2023-11-03 07:03:13,067 INFO c.e.c.l.ArrayListExample [main] [Order{orderId=1, quantity='2', address='Bangalore'}, Order{orderId=3, quantity='20', address='Chennai'}, Order{orderId=4, quantity='6', address='Mumbai'}]
+2023-11-03 07:46:08,307 INFO c.e.s.StringComparision [main] Response:false
+2023-11-03 07:46:39,165 INFO c.e.s.StringComparision [main] Response:true
+2023-11-03 07:46:55,111 INFO c.e.s.StringComparision [main] Response:false
+2023-11-03 07:47:04,702 INFO c.e.s.StringComparision [main] Response:true
